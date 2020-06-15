@@ -1,2 +1,2 @@
 # SQL-for-Data-Science
-Course era work
+Courseera work
